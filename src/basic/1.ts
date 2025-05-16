@@ -5,3 +5,5 @@ let empty: null = null;
 let callback = (a: number): number => {
   return 100 + a;
 };
+
+export {};
